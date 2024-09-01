@@ -7,9 +7,6 @@ This project is a real-time sign language detection system developed using a com
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [Testing](#testing)
 
 ## Introduction
 
