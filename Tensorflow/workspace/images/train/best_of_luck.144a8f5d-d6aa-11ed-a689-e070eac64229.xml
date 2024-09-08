@@ -1,0 +1,26 @@
+<annotation>
+	<folder>best_of_luck</folder>
+	<filename>best_of_luck.144a8f5d-d6aa-11ed-a689-e070eac64229.jpg</filename>
+	<path>D:\Jupyter\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\best_of_luck\best_of_luck.144a8f5d-d6aa-11ed-a689-e070eac64229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>best_of_luck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>132</ymin>
+			<xmax>609</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>
