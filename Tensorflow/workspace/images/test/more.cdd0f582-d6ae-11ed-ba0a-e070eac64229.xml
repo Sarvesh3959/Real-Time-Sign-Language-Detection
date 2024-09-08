@@ -1,0 +1,26 @@
+<annotation>
+	<folder>more</folder>
+	<filename>more.cdd0f582-d6ae-11ed-ba0a-e070eac64229.jpg</filename>
+	<path>D:\Jupyter\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\more\more.cdd0f582-d6ae-11ed-ba0a-e070eac64229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>more</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>210</xmin>
+			<ymin>133</ymin>
+			<xmax>572</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>
