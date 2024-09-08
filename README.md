@@ -33,7 +33,7 @@ This project follows these steps, which guides you through the entire process fr
 
 ## Dataset Creation
 
-In this project, it is crucial to create a custom dataset tailored to the specific hand signs you want the model to recognize. A well-labeled dataset is essential for training a machine learning model to accurately classify and predict sign language gestures. By creating your own dataset, you ensure that the model is trained on the exact gestures and variations that are relevant to your application. For convenience labeled dataset is uploaded in `Tensorflow/workspace/images` directory for 1-9, A-B, some basic words hand signs.
+In this project, it is crucial to create a custom dataset tailored to the specific hand signs you want the model to recognize. A well-labeled dataset is essential for training a machine learning model to accurately classify and predict sign language gestures. By creating your own dataset, you ensure that the model is trained on the exact gestures and variations that are relevant to your application. For convenience labeled dataset is uploaded in `Tensorflow/workspace/images` directory for 1-9, A-Z, and some basic words hand signs.
 
 **Creating the Dataset with LabelImg**:
 Capture Hand Sign Images: Use the provided `Image Collection.ipynb` script to capture images of different hand signs. Ensure that the images are clear and represent the sign language gestures accurately. These images will be saved in the `Tensorflow/workspace/images/collectedimages` directory.
