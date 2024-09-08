@@ -1,0 +1,26 @@
+<annotation>
+	<folder>6</folder>
+	<filename>6.5ea170e1-d6a6-11ed-a892-e070eac64229.jpg</filename>
+	<path>D:\Jupyter\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\6\6.5ea170e1-d6a6-11ed-a892-e070eac64229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>134</ymin>
+			<xmax>197</xmax>
+			<ymax>412</ymax>
+		</bndbox>
+	</object>
+</annotation>
